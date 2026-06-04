@@ -88,19 +88,19 @@ The complete assembly includes:
 
 ### Exploded View
 
-(Add image)
+
 
 ### Front Assembly
 
-(Add image)
+
 
 ### Internal Layout
 
-(Add image)
+
 
 ### Front Housing
 
-(Add image)
+
 
 ---
 
